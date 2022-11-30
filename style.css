@@ -1,0 +1,46 @@
+
+.dmquad{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+    background: #1F2937;
+    padding: 0px 40px 40px 40px;
+}
+    ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 14px;
+    font-size: 18px;
+}
+.hl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-size: 24px;
+    color: #F9FAF8;
+    height: 60px;
+}
+.hmain{
+    width: 450px;
+    margin: 0px;
+    gap: 14p;
+}
+.plimage{
+    width: 450px;
+    height: 250px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0px;
+}
+.titleh{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
